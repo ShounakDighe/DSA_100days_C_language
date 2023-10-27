@@ -1,0 +1,10 @@
+Day 1 :
+
+    Learn about the basics concepts of c programming and information about it .
+    Dennis ritchie created this programming language in the year 1972 .It is maninly 
+    use in the operating systems,device drivers, protocol stacks,it is no more use in 
+    the application software.Lets start with writtin hello world program.
+
+Day 2 :
+
+    Honestly i did nothing today just saw basics like data types and time complexity space complexity and asymptotic notations basics.

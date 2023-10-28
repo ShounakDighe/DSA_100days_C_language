@@ -8,3 +8,7 @@ Day 1 :
 Day 2 :
 
     Honestly i did nothing today just saw basics like data types and time complexity space complexity and asymptotic notations basics.
+
+Day 3 :
+
+    Still on the basics and it was saturday so relax a bit tommorow will start with the fundamentals and linear ds and os related work.

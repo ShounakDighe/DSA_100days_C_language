@@ -12,3 +12,7 @@ Day 2 :
 Day 3 :
 
     Still on the basics and it was saturday so relax a bit tommorow will start with the fundamentals and linear ds and os related work.
+
+Day 4 :
+
+    Learn the types of sorting,abstract data types and still learning about the fequency.

@@ -16,3 +16,7 @@ Day 3 :
 Day 4 :
 
     Learn the types of sorting,abstract data types and still learning about the fequency.
+
+Day 5 :
+
+    Still on the basics learn some new concepts of maths and learn the linear search and binary search basics.tommorow will work on it more.
